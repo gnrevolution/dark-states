@@ -97,6 +97,7 @@ Contains a copy of the Action Cards which is required for macros (see below).
 
 # Other Modules
 <b>Required Modules</b>
+
 Compendium Folders: This (free) module must be installed, as it's used to organize the Savage Worlds compendium packs in folders until Foundry adds this feature in the core functionality.https://foundryvtt.com/packages/compendium-folders/
 
 # License
